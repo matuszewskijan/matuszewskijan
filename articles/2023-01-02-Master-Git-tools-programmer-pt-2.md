@@ -1,3 +1,9 @@
+***
+*Original available at: https://jmatuszewski.com/Master-Git-tools-programmer-pt-2/*
+
+*It's probably easier to read it on the blog than on GitHub.*
+***
+
 # Master Git tools - Effective Programmer pt. 2
 
 > Learn about the importance of writing a good commit messages. How to use message templates, hooks, aliases and how to navigate Git history like a pro.

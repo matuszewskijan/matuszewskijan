@@ -1,3 +1,9 @@
+***
+*Original available at: https://jmatuszewski.com/How-we-built-user-queing-system-for-covid-19-passport-issue-platform/*
+
+*It's probably easier to read it on the blog than on GitHub.*
+***
+
 # How we built user queueing system for platform issuing COVID-19 passports - Rails, Sidekiq, Redis
 
 > Building a platform issuing COVID-19 passports is a very diffcult task especially in terms of security and performance. I am describing the problems we faced working on the application and the solutions we found to successfully release the application in 3 weeks of development time.

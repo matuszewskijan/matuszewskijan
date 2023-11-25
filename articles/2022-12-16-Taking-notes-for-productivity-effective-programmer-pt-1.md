@@ -1,3 +1,9 @@
+***
+*Original available at: https://jmatuszewski.com/Taking-notes-for-productivity-effective-programmer-pt-1/*
+
+*It's probably easier to read it on the blog than on GitHub.*
+***
+
 # Taking notes for productivity - Effective Programmer pt. 1
 
 > Organizing knowledge is a key factor of effective programming work. Is taking notes the perfect way to do it? I think yes answering all of the why and how questions.

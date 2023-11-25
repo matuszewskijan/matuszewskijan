@@ -1,3 +1,9 @@
+***
+*Original available at: https://jmatuszewski.com/How-to-deploy-multiple-apps-on-single-server-with-Capistrano/*
+
+*It's probably easier to read it on the blog than on GitHub.*
+***
+
 # How to deploy multiple Rails apps on a single server with Capistrano
 
 Almost everyone uses cloud hosting solutions like Heroku or AWS nowadays(and I don't expect it to change even after [this DHH post](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0){:target="_blank"}). But if you still self-host your apps then [Capistrano](https://github.com/capistrano/capistrano){:target="_blank"} would be well known to you.

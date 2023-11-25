@@ -1,3 +1,9 @@
+***
+*Original available at: https://jmatuszewski.com/Automatically-run-Rails-tests-in-VS-Code-and-highlight-test-coverage/*
+
+*It's probably easier to read it on the blog than on GitHub.*
+***
+
 # Automatically Run Rails tests in VS Code and highlight test coverage
 
 > Empower your IDE to automatically run RSpec/Minitest tests. Get code coverage highlights with VS Code extension and a few lines of code changed.

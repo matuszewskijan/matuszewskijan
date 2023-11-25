@@ -1,3 +1,9 @@
+***
+*Original available at: https://jmatuszewski.com/Optimize-your-Ruby-on-Rails-CI-pipeline/*
+
+*It's probably easier to read it on the blog than on GitHub.*
+***
+
 # Optimize your Ruby on Rails CI pipeline
 
 > Continous integration pipelines are usually slow. What we could do to change this state? I've found dozens of different strategies how to do it and want to share them with you.
